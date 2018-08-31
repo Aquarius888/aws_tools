@@ -1,0 +1,12 @@
+#Settings for buildcopyaws
+user = '' #ADS user
+password = '' #ADS password
+url_ads = 'https://ads.lab.nordigy.ru/'
+url_api_rn = 'api/v2/release-note/'
+bld_link = '//builder.dins.ru/BIN/'
+lst_req = ['ADB', 'ADT', 'AWS', 'BIL', 'TEA', 'BLF', 'AGS', 'ags_types_pro'] #case sensitivy (without FAX, TAS - see lower)
+lst_reg_tas_fax = ['TAS', 'FAX'] #if requires
+
+bucket = 'ads-builds-rc' # name of s3 bucket
+rn_name = 'monopod_9-1'
+
