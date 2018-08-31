@@ -2,7 +2,7 @@
 
 ## Installation
 
-1. git clone http://git.ringcentral.com:8888/lab/awsbuildcopy.git
+1. git clone -actual link-
 2. cd awsbuildcopy
 3. pip3 install -r requirements.txt
 4. rename settings.py.sample to settings.py
